@@ -5,7 +5,7 @@ public sealed class CalculatorTests
     [Fact]
     public void Smoke_Ok()
     {
-        Assert.Equal(4, 1 + 3);
+        Assert.Equal(7, 4 + 3);
     }
 
     [Fact]
